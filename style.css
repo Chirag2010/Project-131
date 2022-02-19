@@ -1,0 +1,59 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 20px;
+}
+.a_tag1{
+    font-size: 15px;
+    border-radius: 20px;
+    color:black;
+    background-color:white ;
+    padding-left:175px;
+    padding-right:175px;
+    
+}
+.a_tag2{
+    font-size: 15px;
+    border-radius: 20px;
+    color:black;
+    background-color:white ;
+    padding-left:130px;
+    padding-right:130px;
+    
+}
+.a_tag3{
+    font-size: 15px;
+    border-radius: 20px;
+    color:black;
+    background-color:white ;
+    padding-left:150px;
+    padding-right:150px;
+    
+}
+.a_tag4{
+    font-size: 15px;
+    border-radius: 20px;
+    color:black;
+    background-color:white ;
+    padding-left:175px;
+    padding-right:175px;
+    
+}
+.a_tag5{
+    font-size: 15px;
+    border-radius: 20px;
+    color:black;
+    background-color:white ;
+    padding-left:150px;
+    padding-right:150px;
+    
+}
